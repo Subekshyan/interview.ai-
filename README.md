@@ -22,4 +22,5 @@ An AI-powered interview preparation application that helps users practice for jo
 - Team Members
 
 ## Screenshots
-*(Add screenshots here)*
+*<img width="1467" height="746" alt="Screenshot 2026-04-16 at 00 45 02" src="https://github.com/user-attachments/assets/585c0036-eac0-4740-b3ed-9ef8cef49d24" />
+)*
